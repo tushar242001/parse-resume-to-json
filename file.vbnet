@@ -1,0 +1,82 @@
+Please parse the following resume and provide the information in JSON format. The JSON should include the following fields: "Name", "Contact Information", "Education", "Experience", "Skills", and "Projects".
+
+Here is the resume:
+Tushar Adling
+ LinkedIn  |  GitHub | LeetCode | HackerRank | Portfolio
+ +919763189852  |    tushar.22010805@viit.ac.in  | Address : Indapur , Pune , MH , India
+Education ____________________________________________________________________________________________
+• Vishwakarma Institute of Information Technology                                                                                                   Pune, MH, India
+ B.Tech in Computer Engineering                                         CGPA : 9.51                                                                June 2020 - June 2024
+• Dattakala International School and Junior College                                                                                                       Daund, MH, India
+ High School                                                                            Marks : 80%                                                              June 2018 - March 2019
+• Shri Narayandas Ramdas High School                                                                                                                         Indapur, MH, India
+ Secondary School                                                                  Marks : 94.20%                                                          June 2016 - March 2017
+
+Skills _______________________________________________________________________________________
+
+•   Languages :  C , C++ , SQL  , Python , HTML , CSS , Javascript , Python Flask
+•   Tools :  Git , Github, Github Actions , Mysql , Xcode , VSCode , Google Colab , Pycharm .
+•   Frameworks and Libraries : Pandas , Numpy , Matplotlib , seaborn , SQLAlchemy .
+•   Data Structures & Algorithms, Operating Systems , Object Oriented Programming , Database Management.
+
+Projects _____________________________________________________________________________________
+
+ Process Scheduling Algorithm Visualizer                                                                           Jan 2024 - May 2024
+
+• Developed an interactive Process Scheduling Algorithm Visualizer using HTML, CSS, and JavaScript  to enhance
+  understanding of process scheduling in operating systems. Deployed on github using github pages and github actions .
+• Implemented functionalities to visualize scheduling algorithms like FCFS, SJF, Priority and Round Robin.
+• Designed an intuitive user interface for selecting algorithms, inputting process data, and viewing execution results .
+
+HealthCare Bed  Booking System                                                                                        Jun 2023 - Nov 2023
+
+
+• Built a hospital bed slot booking system using HTML, CSS, and JavaScript for a user-friendly  experience.
+• Worked on backend system using Python Flask to manage user interactions, data processing, and communication
+  with the MySQL database.
+• Generated a database schema in MySQL to store hospital information, bed availability, and user bookings .
+
+
+AI Chatbot for College Website                                                                                           Jun 2023 - Nov 2023
+
+
+•  Created a chatbot for the college website using Python, designed to assist students and visitors by answering
+   queries and providing information.
+•  The chatbot utilizes natural language processing (NLP) to understand user inputs and deliver accurate responses.
+•  Integrated with the college's database to offer real-time information on courses, events, and other campus-related
+   activities.
+Housing Price Prediction                                                                                                      Nov 2022 - Dec 2022
+• Created housing price prediction model using linear regression to estimate property values based on key features.
+• Analyzed housing market data to identify factors influencing property prices ( number of bedrooms, location).
+• Skills : Python , Pandas , Numpy , Matplotlib .
+
+
+Work Experience__________________________________________________________________________________
+•   Full Stack Developer Intern                                                                                                 Jun 2023 - Nov 2023
+     Company : Piyush IT Services
+     Project :  Audiobook ( A web based application provides books in audio format )
+Pioneered the user interface using HTML, CSS, and JavaScript to create a responsive and user-friendly experience.
+ Added CSS effects to make the website more responsive and More Interactive to users .
+Utilized MySQL to design, implement, and manage the project's data storage solutions.
+ •  Data Science Intern                                                                                                              Nov 2022 - Dec 2022
+     Company : Edyst Technology
+Learned data science fundamentals and Python tools like NumPy and Pandas , Matplotlib , seaborn .
+Explored and applied linear regression algorithms to real-world problems and Completed Housing price prediction project successfully .
+
+Achievements________________________________________________________________________________
+
+
+•  Solved 350+ Coding Problems on Leetcode , Hackerrank , Codechef and GFG platforms .
+•  1’st Rank in College Coding Competition Conducted with the association of Edyst Technology .
+•   5 star in C++ Programming 4 star in C Programming  on Hackerrank Platform .
+
+Certificates__________________________________________________________________________________
+
+• Introduction to Data Science    | ( Infosys ) |
+• Introduction to Artificial Intelligence   | ( Infosys ) |
+• Data Structures and Algorithms: The Complete Masterclass  ( Infosys ) |
+• Learn C++ Programming -Beginner to Advance- Deep Dive in C++  ( Udemy ) |
+• Front-End Technologies in the framework of EPAM Center of Excellence ( EPAM Systems ) |
+• SQL Foundation - Self Paced   ( GeeksforGeeks ) |
+• Mastering Data Structures & Algorithms using C and C++   | ( Udemy ) |
+

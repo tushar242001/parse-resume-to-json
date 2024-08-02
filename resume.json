@@ -1,0 +1,38 @@
+{
+  "Name": "Tushar",
+  "Contact Information": {
+    "Email": "tusharadling24@gmail.com",
+    "Phone": "9763189852",
+    "Address": "Ambikanagar , Indapur , Maharashtra Pune"
+  },
+  "Education": [
+    {
+      "Degree": "B.Tech in Computer Engineering",
+      "Institution": "Vishwakarma Institute of Information Technology College",
+      "GPA": "9.51",
+      "Graduation Year": "2024"
+    }
+  ],
+  "Experience": [
+    {
+      "Position": "Full Stack Developer Intern",
+      "Company": "Piyush IT Services",
+      "Duration": "6 months",
+      "Responsibilities": "Worked on developing scalable products, collaborating with team members."
+    }
+  ],
+  "Skills": ["C++", "C", "HTML", "CSS", "Python", "Python Flask", "SQL", "MySQL", "Git", "GitHub", "OOP", "Data Structures and Algorithms"],
+  "Projects": [
+    {
+      "Name": "CPU Scheduling Algorithm Visualizer",
+      "Description": "An interactive platform simulating various CPU scheduling algorithms, including FCFS, SJF, RR, SRTF, and Priority. It allows users to input data and visualize scheduling processes in real-time.",
+      "Technologies": ["HTML", "CSS", "JavaScript"],
+      "Github Link": "https://tushar242001.github.io/Process_Scheduling_Algorithm_Visualiser/"
+    },
+    {
+      "Name": "Chatbot for College Website",
+      "Description": "Developed using Python, designed to assist students and visitors by answering queries and providing information using NLP.",
+      "Technologies": ["Python", "NLP"]
+    }
+  ]
+}
